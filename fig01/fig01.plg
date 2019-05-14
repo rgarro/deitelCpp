@@ -1,0 +1,41 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: fig01 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\rolando\AppData\Local\Temp\RSP538E.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/fig01.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"C:\Users\rolando\Documents\CPP\deitelCpp\fig01\fig01.cpp"
+]
+Creating command line "cl.exe @C:\Users\rolando\AppData\Local\Temp\RSP538E.tmp" 
+Creating temporary file "C:\Users\rolando\AppData\Local\Temp\RSP539E.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/fig01.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"C:\Users\rolando\Documents\CPP\deitelCpp\fig01\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\rolando\AppData\Local\Temp\RSP539E.tmp" 
+Creating temporary file "C:\Users\rolando\AppData\Local\Temp\RSP53AF.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/fig01.pdb" /debug /machine:I386 /out:"Debug/fig01.exe" /pdbtype:sept 
+.\Debug\StdAfx.obj
+.\Debug\fig01.obj
+]
+Creating command line "link.exe @C:\Users\rolando\AppData\Local\Temp\RSP53AF.tmp"
+<h3>Output Window</h3>
+Compiling...
+StdAfx.cpp
+Compiling...
+fig01.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+fig01.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
