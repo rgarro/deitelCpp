@@ -1,17 +1,15 @@
 deitelCpp
 =======
 
-We all know HipHop is about C++ ...
-This has to save Dr DRE 
-1-8-7 a chemise lo mato Marino Donato!!
+Rollin down the street, smokin indo, sippin on gin and juice
+Laid back (with my mind on my money and my money on my mind) ...
 
-#### npm i route32
+
+#### Save Dr DRE
 
 Buy Me a Beer, Starbucks Expresso or send a cheese burguer ... [Paypal](https://www.paypal.me/gospelOfLuke/25).
 
-#### npm i route32
-
-
+#### Save Dr DRE
 
 
 [![Maneje Despacio](https://pbs.twimg.com/media/D6k9CnaWkAAcdYv?format=jpg&name=4096x4096)]
