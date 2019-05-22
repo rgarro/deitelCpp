@@ -13,6 +13,9 @@ $RECYCLE.BIN/
 *.ncb
 *.opt
 *.plg
+*.exe
+*.ilk
+*.pch
 
 # Windows Installer files
 *.cab
