@@ -14,7 +14,7 @@ public:
       cout << x << endl; 
    }
 
-};//fin de la clase Cuenta
+};//D3Db3 E3C4 E3C4 C4D4Db4E4 C4D4E4 B3D4C4 ....
 
 int main()
 {
