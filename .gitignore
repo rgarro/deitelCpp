@@ -16,6 +16,9 @@ $RECYCLE.BIN/
 *.exe
 *.ilk
 *.pch
+*.pdb
+*.obj
+*.idb
 
 # Windows Installer files
 *.cab
