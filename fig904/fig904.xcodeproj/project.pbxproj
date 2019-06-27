@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F8E31D0122C3CDAD002864FC /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F8E31D0022C3CDAD002864FC /* main.cpp */; };
+		F8FE06A222C4FF800003528F /* punto.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F8FE06A122C4FF800003528F /* punto.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,6 +27,7 @@
 		F8E31CFD22C3CDAD002864FC /* fig904 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = fig904; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8E31D0022C3CDAD002864FC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		F8E31D0722C3CDF4002864FC /* punto.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = punto.h; sourceTree = "<group>"; };
+		F8FE06A122C4FF800003528F /* punto.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = punto.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			children = (
 				F8E31D0022C3CDAD002864FC /* main.cpp */,
 				F8E31D0722C3CDF4002864FC /* punto.h */,
+				F8FE06A122C4FF800003528F /* punto.cpp */,
 			);
 			path = fig904;
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8FE06A222C4FF800003528F /* punto.cpp in Sources */,
 				F8E31D0122C3CDAD002864FC /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

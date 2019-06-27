@@ -13,12 +13,12 @@ class Punto {
 public:
     Punto(int=0,int=0);
     void estableceX(int);
-    int obtieneX() const;
+    int obtieneX();
     
     void estableceY(int);
-    int obtieneY() const;
+    int obtieneY();
     
-    void imprime() const;
+    void imprime();
     
 private:
     int x;
